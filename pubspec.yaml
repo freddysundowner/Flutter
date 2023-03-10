@@ -14,7 +14,7 @@ dependencies:
   fluttertoast: ^8.0.8
   webview_flutter: ^3.0.4
   modal_bottom_sheet: ^2.1.0
-  flutter_inappwebview: ^5.5.0
+  flutter_inappwebview: 5.4.4+3
 
 dev_dependencies:
   flutter_test:
